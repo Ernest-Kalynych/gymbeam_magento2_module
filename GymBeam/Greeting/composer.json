@@ -1,0 +1,23 @@
+{
+    "name": "gymbeam/magento-2-module",
+    "description": "Magento CaseStudy Module",
+    "require": {
+      "php": "~8.1.0",
+      "magento/framework": "103.0.*"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "repositories": {
+      "type": "composer",
+      "url": "https://repo.magento.com/"
+    },
+    "autoload": {
+      "files": [
+        "etc/registration.php"
+      ],
+      "psr-4": {
+        "GymBeam\\Greeting\\": "app/code/GymBeam/Greeting"
+      }
+    }
+  }
