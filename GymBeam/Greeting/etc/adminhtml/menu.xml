@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="GymBeam_Greeting::main_menu"
+             title="GymBeam Greeting"
+             module="GymBeam_Greeting"
+             sortOrder="100"
+             parent="Magento_Backend::content"
+             action="gymbeam_greeting/index"
+             resource="GymBeam_Greeting::main_menu"/>
+    </menu>
+</config>

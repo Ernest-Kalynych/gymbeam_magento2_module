@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/config.xsd">
+    <default>
+        <GymBeam_Greeting>
+            <greeting_config_group>
+                <module_config_show_enabled>1</module_config_show_enabled>
+                <text>Greetings from GymBeam!</text>
+            </greeting_config_group>
+        </GymBeam_Greeting>
+    </default>
+</config>
