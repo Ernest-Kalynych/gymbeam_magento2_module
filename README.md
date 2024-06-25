@@ -1,9 +1,16 @@
 README
-<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/b6c23b5b-d2e3-48de-8567-a9a07ecd7a78">
-<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/8210349b-aecc-4734-a1a7-d0b26fb1e6ac">
 
-<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/cfab021a-d834-4a14-9022-99247e57eb0f">
-<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/4cf95187-876f-4899-aa35-8760cdd84cd0">
+Showing disabled:
+<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/e3d244df-7d7d-45e8-b53b-287b6b1664fa">
+<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/d830aeb1-4f85-40a5-8a4d-b76a768fde60">
+
+Showing enabled:
+<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/3bc7c4eb-8063-4c9a-acbc-d5f46b924523">
+<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/09b7c463-b858-40e8-8a7c-6cc82db4650e">
+
+Showing enabled and default text changed:
+<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/654a0ba0-cf08-4a59-8d8a-9721f1bb9965">
+<img width="1484" alt="image" src="https://github.com/Ernest-Kalynych/gymbeam_magento2_module/assets/60212840/4a20b7ed-f9d6-4776-87e8-305d1df29011">
 
 
 Versions:
