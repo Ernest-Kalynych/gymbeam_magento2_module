@@ -21,13 +21,8 @@ class Index extends Action
     public function execute()
     {
         if ($this->isEnabled()) {
-			echo "Showing of greeting module config value is enabled. <br>";
-            echo "text: " . $this->scopeConfig->getValue($this->path . 'text', \Magento\Store\Model\ScopeInterface::SCOPE_STORE) . "<br>";
-			echo "module_config_show_enabled: " . $this->scopeConfig->getValue($this->path . 'module_config_show_enabled', \Magento\Store\Model\ScopeInterface::SCOPE_STORE);
-        } else {
-            echo "Showing of greeting module config value is disabled. ";
-        }
-        
+			echo $this->scopeConfig->getValue($this->path . 'module_config_show_text', \Magento\Store\Model\ScopeInterface::SCOPE_STORE);
+		}   
         exit;
     }
 
